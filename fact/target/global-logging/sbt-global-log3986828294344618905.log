@@ -1,0 +1,14 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(run, Some(68eed5b2-db3d-4e73-af43-9ba9c3a4832a), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / run[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 3 Scala sources to /Users/konnoharuto/scala-study/lib/fact/target/scala-2.12/classes ...[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/konnoharuto/scala-study/lib/fact/Factorization2.scala:3:16: Factorization is already defined as object Factorization[0m
+[0m[[0m[31merror[0m] [0m[0mprivate object Factorization extends App {[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/konnoharuto/scala-study/lib/fact/PrintFactorization.scala:3:16: Factorization is already defined as object Factorization[0m
+[0m[[0m[31merror[0m] [0m[0mprivate object Factorization extends App {[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
+[0m[[0m[31merror[0m] [0m[0m(Compile / [31mcompileIncremental[0m) Compilation failed[0m
+[0m[[0m[31merror[0m] [0m[0mTotal time: 2 s, completed Oct 9, 2021, 1:40:17 AM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m

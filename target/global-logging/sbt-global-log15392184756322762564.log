@@ -1,5 +1,0 @@
-[0m[[0m[0mdebug[0m] [0m[0m> Exec(runMain PrintFactorization, Some(ccf63fbe-ae2f-4e8e-bbde-f349052a71f7), Some(CommandSource(console0)))[0m
-[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / runMain[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
-[0m[[0m[32msuccess[0m] [0m[0mTotal time: 0 s, completed Oct 9, 2021, 1:26:26 AM[0m
-[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
