@@ -6,10 +6,14 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/konnoharuto/scala-study/target/scala-2.12/classes/Factorial.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/konnoharuto/scala-study/target/scala-2.12/classes/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Factorization$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/konnoharuto/scala-study/target/scala-2.12/classes/Factorization$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Factorial$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/konnoharuto/scala-study/target/scala-2.12/classes/Factorial$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Distance$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/konnoharuto/scala-study/target/scala-2.12/classes/Distance$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Factorization.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/konnoharuto/scala-study/target/scala-2.12/classes/Factorization.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Distance$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/konnoharuto/scala-study/target/scala-2.12/classes/Distance$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
@@ -18,4 +22,6 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/konnoharuto/scala-study/target/scala-2.12/classes/Main$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Factorial$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/konnoharuto/scala-study/target/scala-2.12/classes/Factorial$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Factorization$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/konnoharuto/scala-study/target/scala-2.12/classes/Factorization$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
