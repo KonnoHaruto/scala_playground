@@ -1,7 +1,4 @@
-[0m[[0m[31merror[0m] [0m[0m/Users/konnoharuto/workspace/scala-study/Factorial.scala:4:30: identifier expected but ':' found.[0m
-[0m[[0m[31merror[0m] [0m[0m  def factorial(i: BigInt acc: BigInt): BigInt = if (i == 0) acc else factorial(i - 1, i * acc)[0m
-[0m[[0m[31merror[0m] [0m[0m                             ^[0m
-[0m[[0m[31merror[0m] [0m[0m/Users/konnoharuto/workspace/scala-study/Factorial.scala:6:1: ')' expected but '}' found.[0m
-[0m[[0m[31merror[0m] [0m[0m}[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/konnoharuto/scala-study/Factorial.scala:7:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mprintln(factorial(1000))[0m
 [0m[[0m[31merror[0m] [0m[0m^[0m
-[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
