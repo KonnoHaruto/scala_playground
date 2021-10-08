@@ -1,6 +1,4 @@
-[0m[[0m[31merror[0m] [0m[0m/Users/konnoharuto/scala-study/Factorization.scala:9:35: type mismatch;[0m
-[0m[[0m[31merror[0m] [0m[0m found   : (Int, Int)[0m
-[0m[[0m[31merror[0m] [0m[0m required: Map[Int,Int][0m
-[0m[[0m[31merror[0m] [0m[0m      if (num == 1) acc else (num -> 1)[0m
-[0m[[0m[31merror[0m] [0m[0m                                  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/konnoharuto/scala-study/Factorization2.scala:20:5: not found: value factorizationRec[0m
+[0m[[0m[31merror[0m] [0m[0m    factorizationRec(target, 2, Map())[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
 [0m[[0m[31merror[0m] [0m[0mone error found[0m
