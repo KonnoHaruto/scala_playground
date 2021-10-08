@@ -2,6 +2,8 @@
 [0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Distance.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/konnoharuto/scala-study/target/scala-2.12/classes/Distance.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SimpleSearch$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/konnoharuto/scala-study/target/scala-2.12/classes/SimpleSearch$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Factorial.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/konnoharuto/scala-study/target/scala-2.12/classes/Factorial.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
@@ -10,8 +12,12 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/konnoharuto/scala-study/target/scala-2.12/classes/Factorial$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Distance$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/konnoharuto/scala-study/target/scala-2.12/classes/Distance$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SimpleSearch$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/konnoharuto/scala-study/target/scala-2.12/classes/SimpleSearch$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Distance$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/konnoharuto/scala-study/target/scala-2.12/classes/Distance$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SimpleSearch.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/konnoharuto/scala-study/target/scala-2.12/classes/SimpleSearch.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/konnoharuto/scala-study/target/scala-2.12/classes/Main.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Main$delayedInit$body.class[0m
