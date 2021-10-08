@@ -41,3 +41,6 @@
 1633709095290:console
 1633709103177:sbt console
 1633709105787:exit
+1633709876160:run
+1633709928769:runMain PrintFactorization.scala
+1633710361224:runMain PrintFactorization
