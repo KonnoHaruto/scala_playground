@@ -85,3 +85,7 @@
 [0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / console[0m
 [0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
 [0m[[0m[0minfo[0m] [0m[0mStarting scala interpreter...[0m
+[0m[[0m[33mwarn[0m] [0m[0mIn the last 4250 seconds, 5.118 (0.1%) were spent in GC. [Heap: 0.84GB free of 1.00GB, max 1.00GB] Consider increasing the JVM heap using `-Xmx` or try a different collector, e.g. `-XX:+UseG1GC`, for better performance.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIn the last 9839 seconds, 28.244 (0.3%) were spent in GC. [Heap: 0.82GB free of 1.00GB, max 1.00GB] Consider increasing the JVM heap using `-Xmx` or try a different collector, e.g. `-XX:+UseG1GC`, for better performance.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIn the last 4733 seconds, 8.695 (0.2%) were spent in GC. [Heap: 0.71GB free of 1.00GB, max 1.00GB] Consider increasing the JVM heap using `-Xmx` or try a different collector, e.g. `-XX:+UseG1GC`, for better performance.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIn the last 1162 seconds, 5.033 (0.4%) were spent in GC. [Heap: 0.68GB free of 1.00GB, max 1.00GB] Consider increasing the JVM heap using `-Xmx` or try a different collector, e.g. `-XX:+UseG1GC`, for better performance.[0m
